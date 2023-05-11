@@ -1,0 +1,29 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+//bootstrap 5 beta
+
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-icons/font/bootstrap-icons.css';
+
+
+//fontawesome-free
+
+//@import "@fortawesome/fontawesome-common-types";
+//@import "@fortawesome/fontawesome-svg-core";
+//@import "@fortawesome/free-solid-svg-icons";
+//@import "@fortawesome/free-regular-svg-icons";
+//@import "@fortawesome/free-brands-svg-icons";
+
+
+// header
+@import "modules/header";
+
+// hero section
+@import "modules/hero";
+
+// article
+@import "modules/article";
